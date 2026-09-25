@@ -8,3 +8,7 @@ This file is created while learning Git.
  
 - SSH authentication
 - Git branches
+
+## Additional Notes
+
+Git branches allow isolated development.
